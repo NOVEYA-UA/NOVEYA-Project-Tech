@@ -1,5 +1,6 @@
 # NOVEYA-Project-Tech
 
+Этот репозиторий является методической и цифровой основой для проектов восстановления на принципах FDL и НОВЕЯ: совмещение формально-диалектической логики, этики открытого кода и системной реабилитации.
 Unified project stack and governance for NOVEYA public-infrastructure initiatives:
 Aviation Cluster, Tavrida, Customs & Maritime Aquatoria, and more.  
 Built on FDL (Formal-Dialectical Logic), with open, ethical, harmonized design.
