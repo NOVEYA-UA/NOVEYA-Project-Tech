@@ -1,0 +1,10 @@
+domains:
+  aviation:
+    entities: [Airport, AirRoute, Carrier, Flight]
+  maritime:
+    entities: [Port, Vessel, ShippingLane, Cargo]
+  customs:
+    entities: [Checkpoint, Manifest, Declaration, RiskProfile]
+common:
+  actors: [Person, Organization, Device]
+  events: [Inspection, Clearance, Incident]
