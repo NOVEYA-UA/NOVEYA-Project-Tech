@@ -20,10 +20,7 @@ Built on FDL (Formal-Dialectical Logic), with open, ethical, harmonized design.
 - For APIs see `schemas/api/openapi.yaml`.
 - Contributions: see `CONTRIBUTING.md`.
 
-## License & Ethics
-(вставь блок из раздела 1.3)
-
-NOVEYA-Project-Tech/
+## NOVEYA-Project-Tech/
 │
 ├─ README.md                      ← обзор, принципы FDL, карта проектов
 ├─ LICENSE                        ← AGPL-3.0
